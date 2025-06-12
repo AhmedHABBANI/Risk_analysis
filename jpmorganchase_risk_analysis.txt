@@ -1,0 +1,352 @@
+[
+  {
+    "title": "2025 Mid-year Outlook Comfortably Uncomfortable",
+    "date": "May 5, 2025",
+    "source": "J.P. Morgan",
+    "link": "https://www.jpmorgan.com/content/dam/jpmorgan/documents/wealth-management/mid-year-outlook-2025.pdf",
+    "summary": "We believe it is more likely than not that U.S. as well as European and Japanese equity markets will make new highs over the next 12 months.",
+    "risk_category": "Market & financial",
+    "sentiment": "Neutral",
+    "impact_level": "Medium"
+  },
+  {
+    "title": "What's Behind May's U.S. Stock Market Rally and Can It ...",
+    "date": "Jun 3, 2025",
+    "source": "Chase Bank",
+    "link": "https://www.chase.com/personal/investments/learning-and-insights/article/whats-behind-mays-us-stock-market-rally-and-can-it-last",
+    "summary": "In May, domestic and global equities experienced a rally, providing a welcome relief after the market volatility seen in April.",
+    "risk_category": "Market & financial",
+    "sentiment": "Negative",
+    "impact_level": "Medium"
+  },
+  {
+    "title": "Review of markets over May 2025",
+    "date": "2025-05",
+    "source": "J.P. Morgan",
+    "link": "https://am.jpmorgan.com/be/en/asset-management/adv/insights/market-insights/market-updates/monthly-market-review/",
+    "summary": "Against this backdrop, developed market equities rose 6.0%. US stocks outperformed most of their global peers, and growth (+8.7%) outperformed value (+3.2%).",
+    "risk_category": "Market & financial",
+    "sentiment": "Negative",
+    "impact_level": "Medium"
+  },
+  {
+    "title": "Mid-Year Outlook 2025: Comfortably Uncomfortable",
+    "date": "2025-05",
+    "source": "Chase Bank",
+    "link": "https://www.chase.com/personal/investments/mid-year-outlook",
+    "summary": "The price of equity securities may rise or fall due to the changes in the broad market or changes in a company's financial condition, sometimes rapidly or ...",
+    "risk_category": "Market & financial",
+    "sentiment": "Neutral",
+    "impact_level": "Medium"
+  },
+  {
+    "title": "2025 Proxy Statement",
+    "date": "2025-05",
+    "source": "JPMorganChase",
+    "link": "https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/proxy-statement2025.pdf",
+    "summary": "Tuesday, May 20, 2025. Access. The 2025 Annual Meeting of Shareholders will be held in a virtual meeting format, via the Internet. If you plan ...",
+    "risk_category": "Market & financial",
+    "sentiment": "Neutral",
+    "impact_level": "Medium"
+  },
+  {
+    "title": "Through acquisition, JPMorgan competes with Stripe ...",
+    "date": "Sep 12, 2022",
+    "source": "The Financial Revolutionist",
+    "link": "https://thefr.com/news/through-acquisition-jpmorgans-competes-with-stripe-block-and-itself",
+    "summary": "JPMorgan announced that it's acquiring cloud-native payments startup Renovite. The California-based startup will become part of JPMorgan ...",
+    "risk_category": "Competitive",
+    "sentiment": "Neutral",
+    "impact_level": "Medium"
+  },
+  {
+    "title": "Deep Dive: How JPMorgan Is Reengineering Banking at ...",
+    "date": "2025-05",
+    "source": "Medium \u00b7 Sam Boboev",
+    "link": "https://medium.com/@samboboev/deep-dive-how-jpmorgan-is-reengineering-banking-at-scale-f60ac54c864b",
+    "summary": "Deep Dive: Stripe vs. Adyen: Comparing 2024 Performance. In this Deep Dive, we're putting two fintech heavyweights \u2014 Stripe and Adyen \u2014 head ...",
+    "risk_category": "Competitive",
+    "sentiment": "Neutral",
+    "impact_level": "Medium"
+  },
+  {
+    "title": "JPMorgan seeks embedded payments niches",
+    "date": "Mar 25, 2024",
+    "source": "Payments Dive",
+    "link": "https://www.paymentsdive.com/news/jpmorgan-embedded-payments-healthcare-auto-energy-insurance-retail/711244/",
+    "summary": "JPMorgan is competing against top payments fintechs in the embedded payments arena, including rivals such as Adyen and Stripe as well as smaller ...",
+    "risk_category": "Competitive",
+    "sentiment": "Positive",
+    "impact_level": "Medium"
+  },
+  {
+    "title": "JPMorgan Chase acquires payments fintech Renovite to ...",
+    "date": "Sep 12, 2022",
+    "source": "Startup Story",
+    "link": "https://startupstorymedia.com/insights-jpmorgan-chase-acquires-payments-fintech-renovite-to-compete-with-stripe-and-block/",
+    "summary": "JPMorgan Chase has agreed to acquire Renovite, a payments startup, in order to counter challenges from fintech companies such as Stripe and Block.",
+    "risk_category": "Competitive",
+    "sentiment": "Neutral",
+    "impact_level": "Medium"
+  },
+  {
+    "title": "Advisory Insights - May 2025",
+    "date": "May 18, 2025",
+    "source": "FS Vector",
+    "link": "https://fsvector.com/advisory-insights-may-2025/",
+    "summary": "If approved, Stripe could obtain this banking license by the third quarter of 2025, enhancing its ability to directly serve merchants with ...",
+    "risk_category": "Competitive",
+    "sentiment": "Neutral",
+    "impact_level": "Medium"
+  },
+  {
+    "title": "1Q25 Liquidity Coverage Ratio Report",
+    "date": "2025-05",
+    "source": "Notified",
+    "link": "https://jpmorganchaseco.gcs-web.com/static-files/dd81ffb4-c81e-429c-87d7-729e6f750f76",
+    "summary": "JPMorgan Chase Bank, N.A.'s average LCR for the three months ended March 31, 2025 decreased compared with the three months ended March 31,. 2024, due to ...",
+    "risk_category": "Liquidity & capital structure",
+    "sentiment": "Neutral",
+    "impact_level": "High"
+  },
+  {
+    "title": "Consumer & Community Banking",
+    "date": "May 19, 2025",
+    "source": "JPMorganChase",
+    "link": "https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/events/2025/jpmc-2025-investor-day/consumer-community-banking.pdf",
+    "summary": "#1 outflow destination for Chase Consumer and Business deposit clients. 3. Chase Wealth Management clients. 4. As of April 24, 2025. 5. J.P. ...",
+    "risk_category": "Liquidity & capital structure",
+    "sentiment": "Negative",
+    "impact_level": "High"
+  },
+  {
+    "title": "Navigating Liquidity risk in investment funds",
+    "date": "2025-05",
+    "source": "J.P. Morgan",
+    "link": "https://www.jpmorgan.com/content/dam/jpm/cib/documents/navigating-liquidity-risk-in-investment-funds.pdf",
+    "summary": "In this our latest briefing in a series on. Liquidity Risk Management, we delve into pivotal regulatory developments impacting liquidity risk in investment ...",
+    "risk_category": "Liquidity & capital structure",
+    "sentiment": "Neutral",
+    "impact_level": "High"
+  },
+  {
+    "title": "Global Liquidity EMEA Investment Outlook 2025",
+    "date": "2025-05",
+    "source": "J.P. Morgan",
+    "link": "https://am.jpmorgan.com/ch/en/asset-management/liq/insights/liquidity-insights/updates/global-liquidity-emea-investment-outlook-2025/",
+    "summary": "Explore the Global Liquidity EMEA Investment Outlook 2025 with our insights on expected rate cuts by the Federal Reserve, ECB, and BOE.",
+    "risk_category": "Liquidity & capital structure",
+    "sentiment": "Neutral",
+    "impact_level": "High"
+  },
+  {
+    "title": "Treasury Management After the Pandemic",
+    "date": "2025-05",
+    "source": "J.P. Morgan",
+    "link": "https://www.jpmorgan.com/insights/treasury/liquidity-management/treasury-management-after-the-pandemic",
+    "summary": "The pandemic unleashed widespread disruption that affected many companies' liquidity. Let's evaluate how businesses responded in the moment and what long-term ...",
+    "risk_category": "Liquidity & capital structure",
+    "sentiment": "Neutral",
+    "impact_level": "High"
+  },
+  {
+    "title": "JP Morgan affiliates to pay $151m to resolve five SEC ...",
+    "date": "Nov 4, 2024",
+    "source": "Global Relay Intelligence & Practice",
+    "link": "https://www.grip.globalrelay.com/jp-morgan-affiliates-to-pay-151m-to-resolve-five-sec-enforcement-actions/",
+    "summary": "Five SEC enforcement actions include allegations that some advisers' recommendations were not in the best interest of clients.",
+    "risk_category": "Regulatory & legal",
+    "sentiment": "Neutral",
+    "impact_level": "High"
+  },
+  {
+    "title": "JPMorgan to pay $151M over flawed investment ...",
+    "date": "Nov 1, 2024",
+    "source": "Banking Dive",
+    "link": "https://www.bankingdive.com/news/jpmorgan-sec-5-orders-151-million-misleading-disclosure-investments/731764/",
+    "summary": "JPMorgan Chase agreed to pay $151 million in penalties and voluntary transactions to investors to settle five enforcement actions.",
+    "risk_category": "Regulatory & legal",
+    "sentiment": "Neutral",
+    "impact_level": "High"
+  },
+  {
+    "title": "J.P. Morgan SEC US Treasury Clearing Mandate",
+    "date": "Mar 25, 2025",
+    "source": "J.P. Morgan",
+    "link": "https://www.jpmorgan.com/content/dam/jpm/cib/documents/UST_Clearing_FAQ.pdf",
+    "summary": "The information in this document is provided as of Tuesday 25th March 2025 and reflects our understanding of the U.S. Treasury clearing mandate ...",
+    "risk_category": "Regulatory & legal",
+    "sentiment": "Neutral",
+    "impact_level": "High"
+  },
+  {
+    "title": "JP Morgan pays $151m in sweeping SEC settlements over ...",
+    "date": "Nov 4, 2024",
+    "source": "FinTech Global",
+    "link": "https://fintech.global/2024/11/04/jp-morgan-pays-151m-in-sweeping-sec-settlements-over-investor-protection-failures/",
+    "summary": "The firms will pay over $151m in civil penalties and voluntary payments to resolve allegations of misleading disclosures and breaches of fiduciary duty.",
+    "risk_category": "Regulatory & legal",
+    "sentiment": "Neutral",
+    "impact_level": "High"
+  },
+  {
+    "title": "SEC Charges JP Morgan Affiliates $151m",
+    "date": "Oct 31, 2024",
+    "source": "Markets Media",
+    "link": "https://www.marketsmedia.com/jp-morgan-affiliates-to-pay-151m-for-sec-enforcement-actions/",
+    "summary": "The two affiliates agreed to pay more than $151 million in combined civil penalties and voluntary payments to investors to resolve four of the actions.",
+    "risk_category": "Regulatory & legal",
+    "sentiment": "Neutral",
+    "impact_level": "High"
+  },
+  {
+    "title": "OCC Hack: JPMorgan, BNY Limit Information Sharing With ...",
+    "date": "Apr 15, 2025",
+    "source": "Bloomberg",
+    "link": "https://www.bloomberg.com/news/articles/2025-04-14/jpmorgan-bny-limit-information-sharing-with-occ-after-hack",
+    "summary": "The OCC and the US Treasury deemed the breach a \u201cmajor incident \u201d that gave hackers access to highly-sensitive information about the financial ...",
+    "risk_category": "Technological",
+    "sentiment": "Neutral",
+    "impact_level": "High"
+  },
+  {
+    "title": "JPMorgan Chase Confirms Cyber-Attack",
+    "date": "2025-05",
+    "source": "BankInfoSecurity",
+    "link": "https://www.bankinfosecurity.com/jpmorgan-a-7319",
+    "summary": "JPMorgan Chase & Co. has confirmed that it recently suffered a cyber-attack that compromised its systems, although it's not sharing many details about the ...",
+    "risk_category": "Technological",
+    "sentiment": "Neutral",
+    "impact_level": "High"
+  },
+  {
+    "title": "JPMorgan Chase CISO warns software industry on supply ...",
+    "date": "Apr 28, 2025",
+    "source": "Cybersecurity Dive",
+    "link": "https://www.cybersecuritydive.com/news/jpmorgan-chase-ciso--software-supply-chain-security/746476/",
+    "summary": "In an open letter, Patrick Opet said third-party vendors need to embrace secure development practices over speed to market.",
+    "risk_category": "Technological",
+    "sentiment": "Neutral",
+    "impact_level": "High"
+  },
+  {
+    "title": "Report: OCC Hack Prompts Information Sharing Limits ...",
+    "date": "Apr 14, 2025",
+    "source": "PYMNTS.com",
+    "link": "https://www.pymnts.com/bank-regulation/2025/report-occ-hack-prompts-information-sharing-limits-from-big-banks/",
+    "summary": "JPMorgan Chase and Bank of New York Mellon reportedly have scaled back electronic information sharing with the OCC following a email breach.",
+    "risk_category": "Technological",
+    "sentiment": "Neutral",
+    "impact_level": "High"
+  },
+  {
+    "title": "JPMorgan CISO Spotlights SaaS Security Concerns. What ...",
+    "date": "2025-05",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/expert-insights/2025/05/jpmorgan-ciso-spotlights-saas-security.html",
+    "summary": "The catastrophic CrowdStrike outage of July 2024 demonstrated how deeply interconnected our SaaS systems have become. A flawed update to a ...",
+    "risk_category": "Technological",
+    "sentiment": "Neutral",
+    "impact_level": "High"
+  },
+  {
+    "title": "JPMorgan wins UK court order to block VTB's $156 million ...",
+    "date": "7 days ago",
+    "source": "Reuters",
+    "link": "https://www.reuters.com/sustainability/boards-policy-regulation/jpmorgan-wins-uk-court-order-block-vtbs-156-million-russian-lawsuits-2025-06-05/",
+    "summary": "JPMorgan Chase on Thursday won its bid to block Russia's VTB Bank suing it in Russia over nearly $156 million, in the latest case brought at ...",
+    "risk_category": "Geopolitical",
+    "sentiment": "Neutral",
+    "impact_level": "Medium"
+  },
+  {
+    "title": "JPMorgan's Withdrawal from Chery IPO Signals ...",
+    "date": "May 6, 2025",
+    "source": "AInvest",
+    "link": "https://www.ainvest.com/news/jpmorgan-withdrawal-chery-ipo-signals-geopolitical-risks-emerging-markets-2505/",
+    "summary": "By avoiding Chery's IPO, JPMorgan aims to sidestep further exposure to entities indirectly linked to Russia, even at the cost of missing out on ...",
+    "risk_category": "Geopolitical",
+    "sentiment": "Negative",
+    "impact_level": "Medium"
+  },
+  {
+    "title": "CORP Q1 2025",
+    "date": "May 1, 2025",
+    "source": "JPMorganChase",
+    "link": "https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/quarterly-earnings/2025/1st-quarter/corp-q1-2025.pdf",
+    "summary": "The Firm continues to monitor its exposure to Russia, which corresponds to cash placed with the central bank, but which excludes deposits ...",
+    "risk_category": "Geopolitical",
+    "sentiment": "Negative",
+    "impact_level": "Medium"
+  },
+  {
+    "title": "The Russia-Ukraine crisis: What does It mean for markets?",
+    "date": "2025-05",
+    "source": "J.P. Morgan",
+    "link": "https://www.jpmorgan.com/insights/global-research/current-events/russia-ukraine-crisis-market-impact",
+    "summary": "J.P. Morgan Research projects a high risk of large energy supply disruptions, with Brent oil price to remain elevated between $100-185 bbl given the possibility ...",
+    "risk_category": "Geopolitical",
+    "sentiment": "Neutral",
+    "impact_level": "Medium"
+  },
+  {
+    "title": "Wall Street's China Plans in Tatters After Years of Setbacks",
+    "date": "Feb 16, 2025",
+    "source": "Bloomberg",
+    "link": "https://www.bloomberg.com/news/features/2025-02-16/from-jpmorgan-to-citi-banks-are-rethinking-china-as-trump-ramps-up-tensions",
+    "summary": "Global banks have more than $45 billion in exposure to China, which was supposed to yield almost $9 billion in combined annual profits by 2030 ...",
+    "risk_category": "Geopolitical",
+    "sentiment": "Negative",
+    "impact_level": "Medium"
+  },
+  {
+    "title": "JP Morgan's 'sustainable' funds invested \u00a3200m in mining ...",
+    "date": "Mar 1, 2025",
+    "source": "The Guardian",
+    "link": "https://www.theguardian.com/environment/2025/mar/01/jp-morgan-sustainable-funds-mining-giant-glencore",
+    "summary": "JP Morgan's 'sustainable' funds invested \u00a3200m in mining giant Glencore. Backing of Glencore angers campaigners who have highlighted firm's environmental ...",
+    "risk_category": "ESG",
+    "sentiment": "Neutral",
+    "impact_level": "Medium"
+  },
+  {
+    "title": "Conservative investor pulls JPMorgan resolution, cites ...",
+    "date": "May 21, 2024",
+    "source": "Reuters",
+    "link": "https://www.reuters.com/sustainability/boards-policy-regulation/conservative-investor-pulls-jpmorgan-resolution-cites-changes-addressing-2024-05-21/",
+    "summary": "A conservative shareholder withdrew a resolution filed for a vote at Tuesday's annual meeting of JPMorgan, according to the investor's ...",
+    "risk_category": "ESG",
+    "sentiment": "Neutral",
+    "impact_level": "Medium"
+  },
+  {
+    "title": "JPMAM's sustainability scramble as Europe's ...",
+    "date": "May 7, 2025",
+    "source": "Citywire",
+    "link": "https://citywire.com/selector/news/jpmams-sustainability-scramble-as-europes-greenwashing-deadline-looms/a2464870",
+    "summary": "The following funds dropped 'ESG' from their names and added 'active' instead: JPMorgan ETFs (Ireland) ICAV - AC Asia Pacific ex Japan Research ...",
+    "risk_category": "ESG",
+    "sentiment": "Negative",
+    "impact_level": "Medium"
+  },
+  {
+    "title": "JP Morgan Chase hit with $348m in fines related to its ...",
+    "date": "2025-05",
+    "source": "FinTech Futures",
+    "link": "https://www.fintechfutures.com/regulatory-actions/jp-morgan-chase-hit-with-348m-in-fines-related-to-its-trade-surveillance-programme",
+    "summary": "JP Morgan Chase has been hit with two fines from regulators in the US over alleged deficiencies in its trade surveillance programme.",
+    "risk_category": "ESG",
+    "sentiment": "Negative",
+    "impact_level": "Medium"
+  },
+  {
+    "title": "JP Morgan drops \u201cmaster\u201d and \u201cslave\u201d from internal tech ...",
+    "date": "2025-05",
+    "source": "FinTech Futures",
+    "link": "https://www.fintechfutures.com/fintech-innovation/jp-morgan-drops-master-and-slave-from-internal-tech-code-and-materials",
+    "summary": "JP Morgan Chase & Co is eliminating terms like \u201cblacklist,\u201d \u201cmaster\u201d and \u201cslave\u201d from its internal technology materials and code as it seeks to address racism ...",
+    "risk_category": "ESG",
+    "sentiment": "Neutral",
+    "impact_level": "Medium"
+  }
+]

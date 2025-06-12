@@ -1,0 +1,90 @@
+[
+  {
+    "title": "JPMorganChase Investor Day 2025",
+    "date": "2025-05-19",
+    "source": "JPMorganChase",
+    "summary": "JPMorgan Chase & Co. announces an Investor Day in New York City on May 19, 2025, to discuss the firm's future plans and performance with investors.",
+    "financial_metric": null,
+    "risk_category": "Valuation risks",
+    "sentiment": "Neutral",
+    "impact_level": "Low",
+    "confidence_score": 0.8
+  },
+  {
+    "title": "JPMorgan Chase is heading upmarket to woo America's ...",
+    "date": "2025-05-27",
+    "source": "CNBC",
+    "summary": "JPMorgan Chase is focusing on attracting high-net-worth individuals, aiming to expand its clientele base and increase its revenue streams from wealth management services.",
+    "financial_metric": null,
+    "risk_category": "Revenue risks",
+    "sentiment": "Neutral",
+    "impact_level": "Medium",
+    "confidence_score": 0.7
+  },
+  {
+    "title": "Federal Reserve Holds Rates Steady at May 2025 Meeting ...",
+    "date": "2025-05-08",
+    "source": "J.P. Morgan",
+    "summary": "The Federal Reserve maintained interest rates, adopting a wait-and-see approach to future adjustments. This impacts borrowing costs and bank profitability.",
+    "financial_metric": null,
+    "risk_category": "Margin pressure",
+    "sentiment": "Neutral",
+    "impact_level": "Medium",
+    "confidence_score": 0.9
+  },
+  {
+    "title": "2025",
+    "date": null,
+    "source": "JPMorganChase",
+    "summary": "JPMorganChase launches a Center for Geopolitics to assist clients in navigating the complexities of the global business environment.",
+    "financial_metric": null,
+    "risk_category": "Currency & international exposure",
+    "sentiment": "Neutral",
+    "impact_level": "Low",
+    "confidence_score": 0.6
+  },
+  {
+    "title": "2025 Mid-year Outlook Comfortably Uncomfortable",
+    "date": "2025-05-05",
+    "source": "J.P. Morgan",
+    "summary": "JPMorgan's mid-year outlook suggests a possibility of new highs in US, European, and Japanese equity markets within the next year.",
+    "financial_metric": null,
+    "risk_category": "Valuation risks",
+    "sentiment": "Positive",
+    "impact_level": "Low",
+    "confidence_score": 0.7
+  },
+  {
+    "title": "JPMorganChase 2025 Annual Meeting of Shareholders",
+    "date": null,
+    "source": "Notified",
+    "summary": "JPMorganChase reports $4.4 trillion in assets and $351 billion in stockholders' equity as of March 31, 2025, highlighting its financial strength and size.",
+    "financial_metric": "$4.4 trillion in assets, $351 billion in equity",
+    "risk_category": "Liquidity & capital structure",
+    "sentiment": "Positive",
+    "impact_level": "Low",
+    "confidence_score": 0.9
+  },
+  {
+    "title": "JPMorgan expects dealmaking fees to drop, keeps CEO ...",
+    "date": "2025-05-19",
+    "source": "Reuters",
+    "summary": "JPMorgan anticipates a decrease in dealmaking fees but maintains its CEO's projection for a net charge-off rate of 3.6% for 2025.",
+    "financial_metric": "3.6% net charge-off rate",
+    "risk_category": "Revenue risks",
+    "sentiment": "Negative",
+    "impact_level": "Medium",
+    "confidence_score": 0.8
+  },
+  {
+    "title": "Release Details - JPMorgan Chase: SEC filings",
+    "date": "2025-05-21",
+    "source": "Notified",
+    "summary": "JPMorgan Chase announces upcoming conference calls to review its financial performance for each quarter of 2026.",
+    "financial_metric": null,
+    "risk_category": "Operational financial risks",
+    "sentiment": "Neutral",
+    "impact_level": "Low",
+    "confidence_score": 0.8
+  }
+]
